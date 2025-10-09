@@ -127,21 +127,6 @@ The platform allows restaurant owners to manage menu items, track orders, handle
 └── README.md
 ```
 
----
-
-## 🧠 Key Fix Applied
-
-The import path for the navigation component was corrected:
-
-```diff
-- import Nav from './NaV.JSX'
-+ import Nav from './Nav'
-```
-
-This fix resolves the **Vite import-analysis error** during frontend build.
-
----
-
 ## 💡 Future Enhancements
 
 * Add order delivery tracking via WebSockets.
