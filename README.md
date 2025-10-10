@@ -1,6 +1,6 @@
 # Vingo
 
-# 🍽️ Vingo – Food Devlivery App
+# 🍽️ Vingo – Food Delivery App
 
 **Vingo** is a full-stack restaurant ordering and management system built using the **MERN (MongoDB, Express.js, React.js, Node.js)** stack.
 It provides two separate dashboards for **owners** and **users**, enabling a seamless digital experience for both restaurant management and customers.
